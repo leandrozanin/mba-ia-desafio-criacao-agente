@@ -1,3 +1,6 @@
 .env
 .venv/
+.venv-probe/
 __pycache__/
+estado/
+tests/.fluxo_estado.json
